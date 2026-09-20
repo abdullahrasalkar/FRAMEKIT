@@ -44,6 +44,7 @@ A 3D printable collection of composition guide frame. It is designed to help pho
 
 ## DOWNLOAD LINKS:
 <B>ONSHAPE:</B> https://cad.onshape.com/documents/9cab12282af4b1ae6b0afb24/w/af1b1de3947a20b6e5ea8a8e/e/7c22caaa44a94c8a56177286?renderMode=1&uiState=6aafb6a95c88f1afc728ad9b
+<B>PRINTABLES</B> https://www.printables.com/model/1847973-framekit
 
 ## IMAGE:
 <img width="1117" height="906" alt="Screenshot 2026-09-20 152854" src="https://github.com/user-attachments/assets/bccc12eb-2107-4edd-bb3b-1543c15db9fe" />
